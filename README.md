@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi), I am Samvel. I am an enthusiastic and versatile entry level programmer with hands-on experience.<br><br>🌱 I am eager to apply my skills in real-world projects and continue growing as an AI/ML engineer.<br><br>⚡ Skills:<br><br>Python: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Pytorch, Selenium, Telegram Bot API<br>C/C++<br>SQL: MySQL, SQLite, PostgreSQL<br>Web: HTML, CSS, JS<br>Version Control: Git<br>Containerization: Docker
+Hi), I am Samvel. I am an enthusiastic and versatile junior programmer with hands-on experience.<br><br>🌱 I am eager to apply my skills in real-world projects and continue growing as an AI/ML engineer.<br><br>⚡ Skills:<br><br>Python: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Pytorch, Selenium, Telegram Bot API<br>C/C++<br>SQL: MySQL, SQLite, PostgreSQL<br>Web: HTML, CSS, JS<br>Version Control: Git<br>Containerization: Docker
 
 
 ## 🌐 Socials:
